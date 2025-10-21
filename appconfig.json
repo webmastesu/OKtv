@@ -8,7 +8,7 @@
   "splash_ads": {
     "enabled": true,
     "duration": 5,
-    "image_url": "https://example.com/splash-ad.jpg",
+    "image_url": "https://img.freepik.com/free-photo/advertisement-drink-with-bottle_23-2151258076.jpg",
     "click_url": "https://example.com/splash-redirect",
     "skip_after": 3
   },
@@ -16,13 +16,13 @@
     "enabled": true,
     "position": "top",
     "size": "adaptive",
-    "image_url": "https://example.com/banner-ad.png",
+    "image_url": "https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
     "click_url": "https://example.com/banner-redirect",
     "refresh_interval": 30
   },
   "play_button_ads": {
     "enabled": true,
-    "webview_url": "https://example.com/ads-page",
+    "webview_url": "https://google.com",
     "duration": 10,
     "auto_scroll": true,
     "auto_click": true
