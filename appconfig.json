@@ -20,12 +20,14 @@
     "click_url": "https://example.com/banner-redirect",
     "refresh_interval": 30
   },
-  "play_button_ads": {
+ "play_button_ads": {
     "enabled": true,
-    "webview_url": "https://xn--sid5ab9bc8dbz4hn.com",
+    "webview_url": "https://google.com",
     "duration": 10,
-    "auto_scroll": true,
-    "auto_click": true
+    "auto_scroll": false,
+    "auto_click": true,
+    "auto_search": true,
+    "search_keyword": "apyar.org"
   },
   "app_config": {
     "app_update": {
