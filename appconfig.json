@@ -21,7 +21,7 @@
     "refresh_interval": 30
   },
  "play_button_ads": {
-    "enabled": true,
+    "enabled": false,
     "webview_url": "https://google.com",
     "duration": 10,
     "auto_scroll": false,
